@@ -1538,14 +1538,7 @@
         "Width",
         "Height",
         "Visible",
-        {
-          "AFDDataSourceName": "",
-          "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "",
-          "InvariantPropertyName": "DisplayMode",
-          "IsLockable": false,
-          "NameMapSourceSchema": "?"
-        },
+        "DisplayMode",
         "TabIndex",
         "OnChange",
         "OnSelect",

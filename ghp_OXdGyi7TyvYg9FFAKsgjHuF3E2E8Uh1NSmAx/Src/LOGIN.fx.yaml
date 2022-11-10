@@ -129,8 +129,8 @@ LOGIN As screen:
         RadiusTopRight: =0
         Size: =22.5
         Width: =539
-        X: =29
-        Y: =754
+        X: =101
+        Y: =426
         ZIndex: =5
 
     Image28223307 As image:
